@@ -1,0 +1,55 @@
+.header-section {
+  width: 1472px;
+  padding-top: 40px;
+  padding-bottom: 96px;
+}
+.navbar {
+  border: 1px solid #d0d5dd;
+  background: #f2f4f7;
+}
+.logo-name {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  color: #101828;
+}
+.nav-links ul li {
+  font-weight: 600;
+}
+.navbar-cta .first-action {
+  line-height: 24px;
+  font-weight: 600;
+  border-radius: 100px;
+  border: 1px solid var(--Gray-400, #98a2b3);
+  background: #fff;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+.navbar-cta .second-action {
+  line-height: 24px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--Blue-700, #175cd3);
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+
+.header-main-div .header-left .top-div .h2 h2 {
+  line-height: 72px;
+  letter-spacing: -1.28px;
+}
+.start-free-trial {
+  background: var(--Blue-700, #175cd3);
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+.header-right > div {
+  border-radius: 16px;
+  border: 1px solid var(--Blue-200, #b2ddff);
+  background: var(--Blue-50, #eff8ff);
+  box-shadow: 0px 32px 64px -12px rgba(16, 24, 40, 0.14);
+}
+.icons-border{
+  border-radius: 100px;
+border: 1px solid var(--Blue-100, #D1E9FF);
+background: var(--Base-White, #FFF);
+
+box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
